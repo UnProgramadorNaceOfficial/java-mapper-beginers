@@ -21,3 +21,5 @@ h
 8src/main/java/org/example/mapstruct/entities/Person.java,2\a\2a25ef3fef7913dfc4f6acc58770b3f0f3ba6cb1
 l
 <src/main/java/org/example/mapstruct/dto/PersonCustomDTO.java,0\c\0c12c700bfc2d7d961edabd9142ec99c2dd49e15
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
